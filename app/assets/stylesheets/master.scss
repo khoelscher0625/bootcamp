@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+
 @import "bootstrap";
 
 .clear {
@@ -38,6 +42,8 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #087686;
+  font-family: 'Abril Fatface', cursive;
+  font-weight: bold;
 }
 
 header {
@@ -48,9 +54,15 @@ hr {
   clear:both;
 }
 
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  font-weight: bold;
+  font-size: 48px;
+}
 
-
-
+h2 {
+  font-family: 'Dancing Script', cursive;
+}
 
 
 
